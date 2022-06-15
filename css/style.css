@@ -1,0 +1,54 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    padding: 2em;
+}
+body{
+    background-color:hsl(0, 0%, 95%) ;
+
+}
+.one{
+    background-color: hsl(31, 77%, 52%);
+}
+.two{
+    background-color: hsl(184, 100%, 22%);
+
+}
+.three{
+    background-color:  hsl(179, 100%, 13%);   
+}
+button{
+    background-color: hsl(0, 0%, 95%);
+    border: 1px solid white;
+    margin-top: 1em;
+    padding: 1em;
+    border-radius: 20px;
+}
+h2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: hsl(0, 0%, 95%);
+    font-family: "Big Shoulders Display";
+    font-weight: 700;
+}
+ p {
+    color: hsl(0, 0%,100%, 0.75);
+    font-family: 'Lexend Deca';
+   font-weight: 400;
+   font-size: 15px;
+   line-height:28px;
+ }                                                                                                                                                                                                                                                                                                                                                                                                                                       
+
+  div{
+    max-width: 200px;
+   max-height: 600px;
+  }
+.car{
+    padding: 10px;
+}
